@@ -1,6 +1,6 @@
 
 <div style="text-align: center; margin-bottom: 25px;">
-  <a href=https://darknetking.com">
+  <a href=https://darknetking.com>
             <img src="DARKNETKING_1024x256.png" style="max-width: 100%;">
   </a>
 </div>
