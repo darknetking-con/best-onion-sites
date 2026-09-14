@@ -10,7 +10,7 @@
 
 > ### A curated directory of legal and publicly available resources
 
-🔗 **Explore DarkNet KING: https://darknetking.com **
+🔗 ** Explore DarkNet KING: https://darknetking.com **
 
 ---
 
@@ -39,7 +39,7 @@ If you're exploring legitimate `.onion` resources, keep a few basic principles i
 
 ---
 
-## 📚 About LINKLINKLINKLINK
+## 📚 About DarkNet KING
 
 **DarkNet KING** is a simple directory designed to make **legal and publicly available Tor resources** easier to discover.
 
